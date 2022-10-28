@@ -1,0 +1,7 @@
+git branch + nombreRama 
+git checkout + nombreRama
+-----
+git checkout -b + nombreRama
+
+---
+git switch -c + nombreRama
